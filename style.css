@@ -1,0 +1,25 @@
+body
+{
+    background: pink;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#timer
+{
+    font-size: medium;
+    margin-right: 20px;
+    float: right;
+}
+
+#sd
+{
+    padding-top: 10px;
+    font-size: 25px;
+    margin-right: 20px;
+
+}
